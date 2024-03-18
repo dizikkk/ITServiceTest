@@ -1,0 +1,15 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 3e2ee01d9bfa2b147b4864d18759f438, type: 3}
+  m_Name: SceneServicesConfig
+  m_EditorClassIdentifier: 
+  levelServicePrefab: {fileID: 713573047444509461, guid: 451010de6c3d51b469f7b4837a66b8da, type: 3}
